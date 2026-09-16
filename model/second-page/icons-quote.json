@@ -1,0 +1,31 @@
+{
+  "account": {
+    "availableCredits": 1872,
+    "trialCountMap": {
+      "meshgen": 30
+    },
+    "member": true,
+    "memberType": 1,
+    "snapshotAt": "2026-09-15T20:26:52.639642862+08:00",
+    "uniqueId": "ctx_f966b227a6b44191834f34780fc42578",
+    "uniqueIdExpiresAt": "2026-09-15T23:26:52.638888649+08:00",
+    "accountRef": "account_97b41b956ed215e339b29e7353b19812987ae8032789a2cef97af82a763d27af",
+    "source": 1,
+    "region": "cn"
+  },
+  "quote": {
+    "uniqueId": "ctx_f966b227a6b44191834f34780fc42578",
+    "quoteId": "quote_1f346ba42c27412d99e074db79507f50",
+    "source": 1,
+    "pricingScope": "BEFORE_ACCOUNT_BENEFITS",
+    "quotedAt": "2026-09-15T20:26:52.81278454+08:00",
+    "expiresAt": "2026-09-15T20:31:52.81278454+08:00",
+    "estimatedCreditsTotal": 80,
+    "details": {
+      "1": 20,
+      "2": 20,
+      "3": 20,
+      "4": 20
+    }
+  }
+}

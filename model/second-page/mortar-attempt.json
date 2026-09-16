@@ -1,0 +1,40 @@
+{
+  "asset": "mortar",
+  "region": "cn",
+  "accountRef": "account_97b41b956ed215e339b29e7353b19812987ae8032789a2cef97af82a763d27af",
+  "operation": "text-to-3d",
+  "parameters": {
+    "prompt": "One cute compact black medicine mortar bowl as a 3D cartoon icon for a Qianwen nine-ways video cover. A squat rounded ceramic mortar with a deep visible inner cavity, generously thick rolled rim, softly tapered base and one short pestle resting diagonally inside. Satin obsidian-black glazed ceramic PBR material, subtle charcoal reflections and no contents or text. Clean readable silhouette and plump smooth curves. Isolated single composite asset, front three-quarter view, no floor, no base, no background, no jagged edges, no broken faces, no holes or inverted normals.",
+    "version": "G1",
+    "style": "cartoon",
+    "faceCount": 50000,
+    "outputFormat": [
+      "zip",
+      "glb"
+    ]
+  },
+  "quoteId": "quote_1f346ba42c27412d99e074db79507f50",
+  "approvedCredits": 20,
+  "approval": "User approved the quoted four-icon batch at 80 credits on 2026-09-15.",
+  "retryCount": 0,
+  "submissionState": "submitted",
+  "startedAt": "2026-09-15T12:26:53.696755+00:00",
+  "taskId": "3511859",
+  "providerStatus": 3,
+  "updatedAt": "2026-09-15T12:40:17.459230+00:00",
+  "downloadedArtifacts": [
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/second-page/originals/mortar/mortar_zip.zip",
+      "bytes": 4298514,
+      "format": "zip"
+    },
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/second-page/originals/mortar/mortar_glb.glb",
+      "bytes": 4876816,
+      "format": "glb"
+    }
+  ],
+  "localCompletedAt": "2026-09-15T12:40:18.813537+00:00",
+  "qualityStatus": "accepted-with-website-degenerate-cleanup",
+  "websiteModel": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/public/models/mortar-lux3d.glb"
+}

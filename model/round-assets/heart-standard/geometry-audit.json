@@ -1,0 +1,51 @@
+[
+  {
+    "file": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/heart-standard/heart_glb.glb",
+    "geometry": [
+      {
+        "vertices": 33260,
+        "triangles": 49310,
+        "localDimensions": [
+          0.10000000149011612,
+          0.09611693024635315,
+          0.05172630771994591
+        ],
+        "minToMaxExtentRatio": 0.5172630694916387,
+        "finitePositions": true,
+        "finiteNormals": true,
+        "zeroAreaTriangles": 0
+      }
+    ],
+    "materials": [
+      {
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "metallicFactor": 1.0,
+          "roughnessFactor": 1.0,
+          "baseColorTexture": {
+            "index": 0,
+            "texCoord": 0
+          },
+          "metallicRoughnessTexture": {
+            "index": 1,
+            "texCoord": 0
+          }
+        },
+        "emissiveFactor": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "alphaMode": "OPAQUE",
+        "doubleSided": false,
+        "name": "Designer_Logic_PBR"
+      }
+    ],
+    "note": "Geometry checks do not establish visual acceptance or scene-space collision clearance."
+  }
+]

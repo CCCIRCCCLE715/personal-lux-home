@@ -1,0 +1,32 @@
+{
+  "asset": "heart",
+  "region": "cn",
+  "accountRef": "8849a014807e",
+  "operation": "image-to-3d",
+  "parameters": {
+    "img": "https://holo-cos.aholo3d.cn/resource/platform/temp/2026/09/15/NKUQ3VIKTIVXMAABAAAAABA8.png",
+    "version": "G1-Turbo",
+    "faceCount": 50000,
+    "outputFormat": [
+      "glb"
+    ],
+    "enablePbr": true
+  },
+  "quoteId": "quote_80fd84705bf346a1b84e0200b0dceb99",
+  "approvedCredits": 1,
+  "approval": "User approved one retry for all three models at additional quoted total 3 credits",
+  "retryCount": 1,
+  "submissionState": "submitted",
+  "startedAt": "2026-09-15T09:27:04.947729+00:00",
+  "taskId": "3505434",
+  "providerStatus": 3,
+  "updatedAt": "2026-09-15T09:28:59.117134+00:00",
+  "downloadedArtifacts": [
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/heart-retry/heart.glb",
+      "bytes": 7089196
+    }
+  ],
+  "localCompletedAt": "2026-09-15T09:32:41.014562+00:00",
+  "qualityStatus": "rejected-flat-relief"
+}

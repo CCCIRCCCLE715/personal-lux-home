@@ -1,0 +1,24 @@
+{
+  "asset": "heart",
+  "region": "cn",
+  "accountRef": "8849a014807e",
+  "operation": "image-to-3d",
+  "parameters": {
+    "img": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Red%20heart/3D/red_heart_3d.png",
+    "version": "G1-Turbo",
+    "faceCount": 50000,
+    "outputFormat": [
+      "glb"
+    ],
+    "enablePbr": true
+  },
+  "quoteId": "quote_6a033c1417c14bc196dc97cfef005b5f",
+  "approvedCredits": 1,
+  "approval": "User explicitly confirmed three-model generation after displayed total of 3 credits",
+  "retryCount": 0,
+  "submissionState": "submitted",
+  "startedAt": "2026-09-15T09:14:59.893633+00:00",
+  "taskId": "3505039",
+  "providerStatus": 4,
+  "updatedAt": "2026-09-15T09:21:05.338430+00:00"
+}

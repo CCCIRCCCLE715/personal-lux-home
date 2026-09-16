@@ -1,0 +1,20 @@
+{
+  "operation": "text-to-3d",
+  "region": "cn",
+  "request": {
+    "prompt": "Create one complete high-end sculptural emblem for the hero of a contemporary creator portfolio website. A smooth asymmetric oval core wrapped by two broad, continuous interlocking orbital ribbons, with a small floating polished accent sphere. Violet glossy enamel on the core, warm coral-orange enamel on one ribbon, neutral polished chrome on the other ribbon and accent. Distinct front and side silhouettes, generous rounded bevels, clean continuous surfaces, precise ribbon connections, no thin strands, no jagged geometry, no holes, no torn or unfinished surfaces, no text, no logos, no pedestal, no surrounding scene. Studio-quality PBR materials and topology suitable for a large close-up real-time web render against a warm off-white background.",
+    "version": "G1-Turbo",
+    "style": "photorealistic",
+    "faceCount": 200000,
+    "outputFormat": ["zip", "glb"],
+    "enablePbr": true
+  },
+  "targetFile": "public/models/lux3d-hero.glb",
+  "acceptance": [
+    "Complete silhouette from front and side",
+    "No thin disconnected fragments, torn surfaces, or visible jagged edges",
+    "PBR material and texture edges clean at close-up size",
+    "GLB opens and renders on desktop and mobile",
+    "3D display remains smooth at normal and high-density screens"
+  ]
+}

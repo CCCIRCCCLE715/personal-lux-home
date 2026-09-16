@@ -1,0 +1,14 @@
+{
+  "source": "/Users/huangshaoshuai/Desktop/123.png",
+  "destination": "public/images/portrait-final.png",
+  "unchanged": true,
+  "sha256": "c85192bb4e4d10a55d7cca0a23a19e6f7f6ddfe30547877d018524b08e8fba72",
+  "size": [
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    0,
+    255
+  ]
+}

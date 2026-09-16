@@ -1,0 +1,53 @@
+{
+  "schema": "lux3d.delivery-spec/v2",
+  "title": "黄白第二页 · 四个 LUX 3D Q 版卡通图标",
+  "items": [
+    {
+      "id": "can",
+      "label": "绿色 HB 汽水罐",
+      "selectedAttemptId": "can-generation",
+      "attempts": [
+        {
+          "id": "can-generation",
+          "statePath": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/second-page/can-delivery-state.json"
+        }
+      ]
+    },
+    {
+      "id": "earth",
+      "label": "Q 版小地球",
+      "selectedAttemptId": "earth-generation",
+      "attempts": [
+        {
+          "id": "earth-generation",
+          "statePath": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/second-page/earth-delivery-state.json"
+        }
+      ]
+    },
+    {
+      "id": "bell",
+      "label": "黄色通知铃铛",
+      "selectedAttemptId": "bell-generation",
+      "attempts": [
+        {
+          "id": "bell-generation",
+          "statePath": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/second-page/bell-delivery-state.json"
+        }
+      ]
+    },
+    {
+      "id": "mortar",
+      "label": "黑色药碗与研杵",
+      "selectedAttemptId": "mortar-generation",
+      "attempts": [
+        {
+          "id": "mortar-generation",
+          "statePath": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/second-page/mortar-delivery-state.json"
+        }
+      ]
+    }
+  ],
+  "scene": {
+    "status": "not-requested"
+  }
+}

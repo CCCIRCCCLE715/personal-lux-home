@@ -1,0 +1,28 @@
+{
+  "schema": "lux3d.workflow-state/v2",
+  "taskId": "3511853",
+  "status": "succeeded",
+  "lastKnownProviderStatus": 3,
+  "request": {
+    "operation": "text-to-3d",
+    "region": "cn",
+    "version": "G1"
+  },
+  "expectedFormats": [
+    "zip",
+    "glb"
+  ],
+  "downloadedArtifacts": [
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/second-page/originals/bell/bell_zip.zip",
+      "format": "zip"
+    },
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/second-page/originals/bell/bell_glb.glb",
+      "format": "glb"
+    }
+  ],
+  "createdAt": "2026-09-15T12:26:53.408347+00:00",
+  "updatedAt": "2026-09-15T12:34:28.832795+00:00",
+  "localCompletedAt": "2026-09-15T12:34:30.682246+00:00"
+}

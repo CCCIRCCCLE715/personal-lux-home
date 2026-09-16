@@ -1,0 +1,58 @@
+[
+  {
+    "id": "palette",
+    "name": "调色板",
+    "quoteItem": "1",
+    "status": "awaiting-budget-approval",
+    "motion": "bounce",
+    "path": "/models/palette.glb"
+  },
+  {
+    "id": "banknotes",
+    "name": "绿色钞票",
+    "quoteItem": "2",
+    "status": "awaiting-budget-approval",
+    "motion": "bounce",
+    "path": "/models/banknotes.glb"
+  },
+  {
+    "id": "terminal",
+    "name": "代码图标",
+    "quoteItem": "3",
+    "status": "awaiting-budget-approval",
+    "motion": "bounce",
+    "path": "/models/terminal.glb"
+  },
+  {
+    "id": "brain",
+    "name": "粉色大脑",
+    "quoteItem": "4",
+    "status": "awaiting-budget-approval",
+    "motion": "static",
+    "path": "/models/brain.glb"
+  },
+  {
+    "id": "glasses",
+    "name": "黑框眼镜",
+    "quoteItem": "5",
+    "status": "awaiting-budget-approval",
+    "motion": "static",
+    "path": "/models/glasses.glb"
+  },
+  {
+    "id": "heart",
+    "name": "红色爱心",
+    "quoteItem": "6",
+    "status": "awaiting-budget-approval",
+    "motion": "static",
+    "path": "/models/heart.glb"
+  },
+  {
+    "id": "star",
+    "name": "黄色五角星",
+    "quoteItem": "7",
+    "status": "awaiting-budget-approval",
+    "motion": "static",
+    "path": "/models/star.glb"
+  }
+]

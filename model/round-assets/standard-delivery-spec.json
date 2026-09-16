@@ -1,0 +1,42 @@
+{
+  "schema": "lux3d.delivery-spec/v2",
+  "title": "黄白首页 · Lux3D 标准版三模型原始素材",
+  "items": [
+    {
+      "id": "brain",
+      "label": "马卡龙粉大脑",
+      "selectedAttemptId": "brain-standard",
+      "attempts": [
+        {
+          "id": "brain-standard",
+          "statePath": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/brain-standard-delivery-state.json"
+        }
+      ]
+    },
+    {
+      "id": "heart",
+      "label": "圆润爱心",
+      "selectedAttemptId": "heart-standard",
+      "attempts": [
+        {
+          "id": "heart-standard",
+          "statePath": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/heart-standard-delivery-state.json"
+        }
+      ]
+    },
+    {
+      "id": "star",
+      "label": "圆润五角星",
+      "selectedAttemptId": "star-standard",
+      "attempts": [
+        {
+          "id": "star-standard",
+          "statePath": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/star-standard-delivery-state.json"
+        }
+      ]
+    }
+  ],
+  "scene": {
+    "status": "not-requested"
+  }
+}

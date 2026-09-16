@@ -1,0 +1,23 @@
+{
+  "schema": "lux3d.workflow-state/v2",
+  "taskId": "3505437",
+  "status": "succeeded",
+  "lastKnownProviderStatus": 3,
+  "request": {
+    "operation": "image-to-3d",
+    "region": "cn",
+    "version": "G1-Turbo"
+  },
+  "expectedFormats": [
+    "glb"
+  ],
+  "downloadedArtifacts": [
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/star-retry/star.glb",
+      "format": "glb"
+    }
+  ],
+  "createdAt": "2026-09-15T09:27:05.189815+00:00",
+  "updatedAt": "2026-09-15T09:32:41.014562+00:00",
+  "localCompletedAt": "2026-09-15T09:32:41.014562+00:00"
+}

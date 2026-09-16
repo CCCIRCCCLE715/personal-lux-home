@@ -1,0 +1,90 @@
+{
+  "can": {
+    "glbBytes": 5479552,
+    "triangles": 48878,
+    "degenerateTriangles": 5,
+    "invalidIndices": 0,
+    "nonFiniteComponents": 0,
+    "materials": 1,
+    "zipModelEntries": [
+      "MODEL.glb"
+    ],
+    "zipFirstCorruptEntry": null,
+    "originalClean": false,
+    "website": {
+      "glbBytes": 6066192,
+      "triangles": 48873,
+      "degenerateTriangles": 0,
+      "invalidIndices": 0,
+      "nonFiniteComponents": 0,
+      "materials": 1
+    },
+    "websiteClean": true
+  },
+  "earth": {
+    "glbBytes": 6311204,
+    "triangles": 48982,
+    "degenerateTriangles": 0,
+    "invalidIndices": 0,
+    "nonFiniteComponents": 0,
+    "materials": 1,
+    "zipModelEntries": [
+      "MODEL.glb"
+    ],
+    "zipFirstCorruptEntry": null,
+    "originalClean": true,
+    "website": {
+      "glbBytes": 6311204,
+      "triangles": 48982,
+      "degenerateTriangles": 0,
+      "invalidIndices": 0,
+      "nonFiniteComponents": 0,
+      "materials": 1
+    },
+    "websiteClean": true
+  },
+  "bell": {
+    "glbBytes": 3554984,
+    "triangles": 49122,
+    "degenerateTriangles": 0,
+    "invalidIndices": 0,
+    "nonFiniteComponents": 0,
+    "materials": 1,
+    "zipModelEntries": [
+      "MODEL.glb"
+    ],
+    "zipFirstCorruptEntry": null,
+    "originalClean": true,
+    "website": {
+      "glbBytes": 3554968,
+      "triangles": 49122,
+      "degenerateTriangles": 0,
+      "invalidIndices": 0,
+      "nonFiniteComponents": 0,
+      "materials": 1
+    },
+    "websiteClean": true
+  },
+  "mortar": {
+    "glbBytes": 4876816,
+    "triangles": 48876,
+    "degenerateTriangles": 4,
+    "invalidIndices": 0,
+    "nonFiniteComponents": 0,
+    "materials": 1,
+    "zipModelEntries": [
+      "MODEL.glb"
+    ],
+    "zipFirstCorruptEntry": null,
+    "originalClean": false,
+    "website": {
+      "glbBytes": 5463444,
+      "triangles": 48872,
+      "degenerateTriangles": 0,
+      "invalidIndices": 0,
+      "nonFiniteComponents": 0,
+      "materials": 1
+    },
+    "websiteClean": true
+  }
+}

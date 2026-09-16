@@ -1,0 +1,40 @@
+{
+  "asset": "earth",
+  "region": "cn",
+  "accountRef": "account_97b41b956ed215e339b29e7353b19812987ae8032789a2cef97af82a763d27af",
+  "operation": "text-to-3d",
+  "parameters": {
+    "prompt": "One cute miniature Earth globe as a 3D cartoon icon for a parallax-scroll website video. Rounded saturated sky-blue ocean sphere, raised simplified soft green continents, a few tiny puffy white clouds hugging the globe, no face and no stand. Smooth polished resin and matte clay PBR materials, macaroon color palette, full charming volume and crisp silhouette. Isolated single asset, front three-quarter view, no floor, no base, no background, no thin broken islands, no jagged edges, no holes or inverted normals.",
+    "version": "G1",
+    "style": "cartoon",
+    "faceCount": 50000,
+    "outputFormat": [
+      "zip",
+      "glb"
+    ]
+  },
+  "quoteId": "quote_1f346ba42c27412d99e074db79507f50",
+  "approvedCredits": 20,
+  "approval": "User approved the quoted four-icon batch at 80 credits on 2026-09-15.",
+  "retryCount": 0,
+  "submissionState": "submitted",
+  "startedAt": "2026-09-15T12:26:53.046627+00:00",
+  "taskId": "3511849",
+  "providerStatus": 3,
+  "updatedAt": "2026-09-15T12:34:26.404105+00:00",
+  "downloadedArtifacts": [
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/second-page/originals/earth/earth_zip.zip",
+      "bytes": 6896241,
+      "format": "zip"
+    },
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/second-page/originals/earth/earth_glb.glb",
+      "bytes": 6311204,
+      "format": "glb"
+    }
+  ],
+  "localCompletedAt": "2026-09-15T12:34:28.642554+00:00",
+  "qualityStatus": "accepted-volumetric",
+  "websiteModel": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/public/models/earth-lux3d.glb"
+}

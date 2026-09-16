@@ -1,0 +1,54 @@
+{
+  "1": {
+    "endpoint": {
+      "method": "POST",
+      "path": "/lux3d/v1/generate/img-to-3d/task/create"
+    },
+    "parameters": {
+      "body": {
+        "img": "https://cdn.prod.website-files.com/69b574b7e8a1b256fc6f5504/69c58a174366518677aa9b18_heart.webp",
+        "version": "G1-Turbo",
+        "faceCount": 80000,
+        "outputFormat": [
+          "zip",
+          "glb"
+        ],
+        "enablePbr": true
+      }
+    }
+  },
+  "2": {
+    "endpoint": {
+      "method": "POST",
+      "path": "/lux3d/v1/generate/img-to-3d/task/create"
+    },
+    "parameters": {
+      "body": {
+        "img": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Red%20heart/3D/red_heart_3d.png",
+        "version": "G1-Turbo",
+        "faceCount": 50000,
+        "outputFormat": [
+          "glb"
+        ],
+        "enablePbr": true
+      }
+    }
+  },
+  "3": {
+    "endpoint": {
+      "method": "POST",
+      "path": "/lux3d/v1/generate/img-to-3d/task/create"
+    },
+    "parameters": {
+      "body": {
+        "img": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Star/3D/star_3d.png",
+        "version": "G1-Turbo",
+        "faceCount": 50000,
+        "outputFormat": [
+          "glb"
+        ],
+        "enablePbr": true
+      }
+    }
+  }
+}

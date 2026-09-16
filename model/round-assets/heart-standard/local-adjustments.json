@@ -1,0 +1,7 @@
+{
+  "source": "model/round-assets/heart-standard/heart_glb.glb",
+  "output": "public/models/heart-lux3d-standard.glb",
+  "removedZeroAreaFaces": 0,
+  "materialChanges": "non-metallic silicone; roughness calibrated; base color and normal texture preserved",
+  "geometryReshaped": false
+}

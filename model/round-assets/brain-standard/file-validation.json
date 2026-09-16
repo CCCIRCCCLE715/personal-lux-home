@@ -1,0 +1,30 @@
+[
+  {
+    "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/brain-standard/brain_zip.zip",
+    "format": "zip",
+    "size": 6065809,
+    "sha256": "a675bd27fe17c8784580b504c3fb6efb0aa0984dd002a4c15b8dee75c2d82478",
+    "validation": {
+      "valid": true,
+      "zipEntries": 7,
+      "modelEntries": [
+        "MODEL.glb"
+      ]
+    }
+  },
+  {
+    "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/brain-standard/brain_glb.glb",
+    "format": "glb",
+    "size": 6180552,
+    "sha256": "e1f99f080510d537406dad044ba605c243f39f80feedb654c78091465e3b8adb",
+    "validation": {
+      "valid": true,
+      "glbVersion": 2,
+      "assetVersion": "2.0",
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "materials": 1
+    }
+  }
+]

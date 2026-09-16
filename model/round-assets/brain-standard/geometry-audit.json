@@ -1,0 +1,51 @@
+[
+  {
+    "file": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/brain-standard/brain_glb.glb",
+    "geometry": [
+      {
+        "vertices": 52994,
+        "triangles": 75200,
+        "localDimensions": [
+          0.17000000178813934,
+          0.180793896317482,
+          0.2079673707485199
+        ],
+        "minToMaxExtentRatio": 0.8174359332248722,
+        "finitePositions": true,
+        "finiteNormals": true,
+        "zeroAreaTriangles": 0
+      }
+    ],
+    "materials": [
+      {
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "metallicFactor": 1.0,
+          "roughnessFactor": 1.0,
+          "baseColorTexture": {
+            "index": 0,
+            "texCoord": 0
+          },
+          "metallicRoughnessTexture": {
+            "index": 1,
+            "texCoord": 0
+          }
+        },
+        "emissiveFactor": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "alphaMode": "OPAQUE",
+        "doubleSided": false,
+        "name": "Designer_Logic_PBR"
+      }
+    ],
+    "note": "Geometry checks do not establish visual acceptance or scene-space collision clearance."
+  }
+]

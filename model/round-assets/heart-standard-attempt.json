@@ -1,0 +1,40 @@
+{
+  "asset": "heart",
+  "region": "cn",
+  "accountRef": "8849a014807e",
+  "operation": "text-to-3d",
+  "parameters": {
+    "img": "https://holo-cos.aholo3d.cn/resource/platform/temp/2026/09/15/NKUQ3VIKTIVXMAABAAAAABA8.png",
+    "version": "G1",
+    "faceCount": 50000,
+    "outputFormat": [
+      "zip",
+      "glb"
+    ],
+    "prompt": "A single fully volumetric plump red heart toy. Two round inflated lobes, soft central cleft and rounded lower tip. Smooth bulging front and back, substantial depth at least half of width, glossy red silicone surface, soft highlights. Use reference for silhouette only, create complete front sides and back. No flat relief, no image plane, no backing plate, no text, no stand, no background. Clean closed geometry, no sharp edges or broken faces.",
+    "style": "cartoon"
+  },
+  "quoteId": "quote_e7bf1a674b494aafb939a6aaef43a8a1",
+  "approvedCredits": 20,
+  "approval": "User approved standard text plus reference batch, total 60 credits, latest macaron brain reference",
+  "retryCount": 0,
+  "correctiveGeneration": 1,
+  "submissionState": "submitted",
+  "startedAt": "2026-09-15T09:42:41.260211+00:00",
+  "taskId": "3505765",
+  "providerStatus": 3,
+  "updatedAt": "2026-09-15T09:50:00.428609+00:00",
+  "downloadedArtifacts": [
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/heart-standard/heart_zip.zip",
+      "bytes": 5049853
+    },
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/heart-standard/heart_glb.glb",
+      "bytes": 3991596
+    }
+  ],
+  "localCompletedAt": "2026-09-15T09:52:47.834450+00:00",
+  "qualityStatus": "accepted-volumetric",
+  "websiteModel": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/public/models/heart-lux3d-standard.glb"
+}

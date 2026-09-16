@@ -1,0 +1,135 @@
+{
+  "1": {
+    "endpoint": {
+      "method": "POST",
+      "path": "/lux3d/v1/generate/text-to-3d/task/create"
+    },
+    "parameters": {
+      "body": {
+        "prompt": "An artists oval wooden paint palette with a thumb hole and six thick glossy dabs of paint in red, yellow, blue, pink, green and violet. Warm pale wood with subtle grain; paint has wet glossy highlights. Isolated single 3D asset, cartoon low-poly art direction with intentional broad planar forms and refined bevels, clean watertight geometry, continuous smooth silhouette, correct normals, no jagged edges, no holes, no broken faces, no ground plane, no pedestal, no scene, no extra objects. PBR materials appropriate to object. Front three-quarter presentation.",
+        "version": "G1-Turbo",
+        "style": "cartoon",
+        "faceCount": 50000,
+        "outputFormat": [
+          "zip",
+          "glb"
+        ],
+        "enablePbr": true
+      }
+    }
+  },
+  "2": {
+    "endpoint": {
+      "method": "POST",
+      "path": "/lux3d/v1/generate/text-to-3d/task/create"
+    },
+    "parameters": {
+      "body": {
+        "prompt": "A neat thick stack of stylized green banknotes bound by a cream paper band. Simplified banknote graphic markings, no realistic currency reproduction. Matte layered paper edges, saturated emerald green faces. Isolated single 3D asset, cartoon low-poly art direction with intentional broad planar forms and refined bevels, clean watertight geometry, continuous smooth silhouette, correct normals, no jagged edges, no holes, no broken faces, no ground plane, no pedestal, no scene, no extra objects. PBR materials appropriate to object. Front three-quarter presentation.",
+        "version": "G1-Turbo",
+        "style": "cartoon",
+        "faceCount": 50000,
+        "outputFormat": [
+          "zip",
+          "glb"
+        ],
+        "enablePbr": true
+      }
+    }
+  },
+  "3": {
+    "endpoint": {
+      "method": "POST",
+      "path": "/lux3d/v1/generate/text-to-3d/task/create"
+    },
+    "parameters": {
+      "body": {
+        "prompt": "A thick black rounded-square terminal application icon, front face with a crisp large white greater-than sign and underscore, >_. Satin black glass screen, charcoal beveled metal frame. One solid chunky icon. Isolated single 3D asset, cartoon low-poly art direction with intentional broad planar forms and refined bevels, clean watertight geometry, continuous smooth silhouette, correct normals, no jagged edges, no holes, no broken faces, no ground plane, no pedestal, no scene, no extra objects. PBR materials appropriate to object. Front three-quarter presentation.",
+        "version": "G1-Turbo",
+        "style": "cartoon",
+        "faceCount": 50000,
+        "outputFormat": [
+          "zip",
+          "glb"
+        ],
+        "enablePbr": true
+      }
+    }
+  },
+  "4": {
+    "endpoint": {
+      "method": "POST",
+      "path": "/lux3d/v1/generate/text-to-3d/task/create"
+    },
+    "parameters": {
+      "body": {
+        "prompt": "A friendly stylized pink brain, two symmetric lobes with clear chunky rounded folds. Soft matte pink silicone clay surface, no anatomical realism, no veins or gore. Isolated single 3D asset, cartoon low-poly art direction with intentional broad planar forms and refined bevels, clean watertight geometry, continuous smooth silhouette, correct normals, no jagged edges, no holes, no broken faces, no ground plane, no pedestal, no scene, no extra objects. PBR materials appropriate to object. Front three-quarter presentation.",
+        "version": "G1-Turbo",
+        "style": "cartoon",
+        "faceCount": 50000,
+        "outputFormat": [
+          "zip",
+          "glb"
+        ],
+        "enablePbr": true
+      }
+    }
+  },
+  "5": {
+    "endpoint": {
+      "method": "POST",
+      "path": "/lux3d/v1/generate/text-to-3d/task/create"
+    },
+    "parameters": {
+      "body": {
+        "prompt": "A pair of black rectangular eyeglasses with softly rounded rectangle lenses, thick black acetate rims, narrow bridge, subtle silver rivets on outer frame corners, folded black temples visible behind. Clear transparent glass lenses. Match a classic black wayfarer-inspired rectangular optical frame, not sunglasses. Isolated single 3D asset, cartoon low-poly art direction with intentional broad planar forms and refined bevels, clean watertight geometry, continuous smooth silhouette, correct normals, no jagged edges, no holes, no broken faces, no ground plane, no pedestal, no scene, no extra objects. PBR materials appropriate to object. Front three-quarter presentation.",
+        "version": "G1-Turbo",
+        "style": "cartoon",
+        "faceCount": 50000,
+        "outputFormat": [
+          "zip",
+          "glb"
+        ],
+        "enablePbr": true
+      }
+    }
+  },
+  "6": {
+    "endpoint": {
+      "method": "POST",
+      "path": "/lux3d/v1/generate/text-to-3d/task/create"
+    },
+    "parameters": {
+      "body": {
+        "prompt": "One plump classic symmetrical red heart, clean uninterrupted rounded shape, glossy red lacquer material, polished highlight, cute toy-like volume. Isolated single 3D asset, cartoon low-poly art direction with intentional broad planar forms and refined bevels, clean watertight geometry, continuous smooth silhouette, correct normals, no jagged edges, no holes, no broken faces, no ground plane, no pedestal, no scene, no extra objects. PBR materials appropriate to object. Front three-quarter presentation.",
+        "version": "G1-Turbo",
+        "style": "cartoon",
+        "faceCount": 50000,
+        "outputFormat": [
+          "zip",
+          "glb"
+        ],
+        "enablePbr": true
+      }
+    }
+  },
+  "7": {
+    "endpoint": {
+      "method": "POST",
+      "path": "/lux3d/v1/generate/text-to-3d/task/create"
+    },
+    "parameters": {
+      "body": {
+        "prompt": "One thick yellow five-point star, exactly five points, softly beveled edges and gently rounded tips, glossy golden yellow enamel plastic, clean symmetric silhouette. Isolated single 3D asset, cartoon low-poly art direction with intentional broad planar forms and refined bevels, clean watertight geometry, continuous smooth silhouette, correct normals, no jagged edges, no holes, no broken faces, no ground plane, no pedestal, no scene, no extra objects. PBR materials appropriate to object. Front three-quarter presentation.",
+        "version": "G1-Turbo",
+        "style": "cartoon",
+        "faceCount": 50000,
+        "outputFormat": [
+          "zip",
+          "glb"
+        ],
+        "enablePbr": true
+      }
+    }
+  }
+}

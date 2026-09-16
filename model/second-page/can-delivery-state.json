@@ -1,0 +1,28 @@
+{
+  "schema": "lux3d.workflow-state/v2",
+  "taskId": "3511844",
+  "status": "succeeded",
+  "lastKnownProviderStatus": 3,
+  "request": {
+    "operation": "text-to-3d",
+    "region": "cn",
+    "version": "G1"
+  },
+  "expectedFormats": [
+    "zip",
+    "glb"
+  ],
+  "downloadedArtifacts": [
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/second-page/originals/can/can_zip.zip",
+      "format": "zip"
+    },
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/second-page/originals/can/can_glb.glb",
+      "format": "glb"
+    }
+  ],
+  "createdAt": "2026-09-15T12:26:52.763883+00:00",
+  "updatedAt": "2026-09-15T12:34:20.286556+00:00",
+  "localCompletedAt": "2026-09-15T12:34:26.311043+00:00"
+}

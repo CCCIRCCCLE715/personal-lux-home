@@ -1,0 +1,20 @@
+{
+  "1": {
+    "endpoint": {
+      "method": "POST",
+      "path": "/lux3d/v1/generate/img-to-3d/task/create"
+    },
+    "parameters": {
+      "body": {
+        "img": "https://cdn.prod.website-files.com/69b574b7e8a1b256fc6f5504/69c58a174366518677aa9b18_heart.webp",
+        "version": "G1-Turbo",
+        "faceCount": 80000,
+        "outputFormat": [
+          "zip",
+          "glb"
+        ],
+        "enablePbr": true
+      }
+    }
+  }
+}

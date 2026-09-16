@@ -1,0 +1,30 @@
+[
+  {
+    "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/star-standard/star_zip.zip",
+    "format": "zip",
+    "size": 4049802,
+    "sha256": "f2865cf179246bdfc659f6a8109ab221c5c7fd06f88392f9619d74dbafdeda42",
+    "validation": {
+      "valid": true,
+      "zipEntries": 7,
+      "modelEntries": [
+        "MODEL.glb"
+      ]
+    }
+  },
+  {
+    "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/star-standard/star_glb.glb",
+    "format": "glb",
+    "size": 4028424,
+    "sha256": "9b76a9b264944a1f2a1265d09281c0a9596b067cd10a0e0fb46dfe714cfdf60f",
+    "validation": {
+      "valid": true,
+      "glbVersion": 2,
+      "assetVersion": "2.0",
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "materials": 1
+    }
+  }
+]

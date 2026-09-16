@@ -1,0 +1,32 @@
+{
+  "region": "cn",
+  "approvedCredits": 80,
+  "committedCredits": 80,
+  "approval": "User approved the quoted four-icon batch at 80 credits on 2026-09-15.",
+  "items": {
+    "can": {
+      "credits": 20,
+      "submission": "submitted",
+      "quoteId": "quote_1f346ba42c27412d99e074db79507f50",
+      "taskId": "3511844"
+    },
+    "earth": {
+      "credits": 20,
+      "submission": "submitted",
+      "quoteId": "quote_1f346ba42c27412d99e074db79507f50",
+      "taskId": "3511849"
+    },
+    "bell": {
+      "credits": 20,
+      "submission": "submitted",
+      "quoteId": "quote_1f346ba42c27412d99e074db79507f50",
+      "taskId": "3511853"
+    },
+    "mortar": {
+      "credits": 20,
+      "submission": "submitted",
+      "quoteId": "quote_1f346ba42c27412d99e074db79507f50",
+      "taskId": "3511859"
+    }
+  }
+}

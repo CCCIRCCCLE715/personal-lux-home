@@ -1,0 +1,51 @@
+[
+  {
+    "file": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/star-standard/star_glb.glb",
+    "geometry": [
+      {
+        "vertices": 46511,
+        "triangles": 49493,
+        "localDimensions": [
+          0.10000000149011612,
+          0.09992663562297821,
+          0.03385324403643608
+        ],
+        "minToMaxExtentRatio": 0.3385324353198344,
+        "finitePositions": true,
+        "finiteNormals": true,
+        "zeroAreaTriangles": 12
+      }
+    ],
+    "materials": [
+      {
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "metallicFactor": 1.0,
+          "roughnessFactor": 1.0,
+          "baseColorTexture": {
+            "index": 0,
+            "texCoord": 0
+          },
+          "metallicRoughnessTexture": {
+            "index": 1,
+            "texCoord": 0
+          }
+        },
+        "emissiveFactor": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "alphaMode": "OPAQUE",
+        "doubleSided": false,
+        "name": "Designer_Logic_PBR"
+      }
+    ],
+    "note": "Geometry checks do not establish visual acceptance or scene-space collision clearance."
+  }
+]

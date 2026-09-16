@@ -1,0 +1,30 @@
+[
+  {
+    "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/heart-standard/heart_zip.zip",
+    "format": "zip",
+    "size": 5049853,
+    "sha256": "3216899d9d9b626f8846dd8cf5a462f651bb5ae502b11bd1e918a3306cf37021",
+    "validation": {
+      "valid": true,
+      "zipEntries": 7,
+      "modelEntries": [
+        "MODEL.glb"
+      ]
+    }
+  },
+  {
+    "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/heart-standard/heart_glb.glb",
+    "format": "glb",
+    "size": 3991596,
+    "sha256": "927a19a26ec185c0042735ce2b2390f105add742fb2302d10fe431dd8df5cb3c",
+    "validation": {
+      "valid": true,
+      "glbVersion": 2,
+      "assetVersion": "2.0",
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "materials": 1
+    }
+  }
+]

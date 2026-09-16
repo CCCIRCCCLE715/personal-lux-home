@@ -1,0 +1,7 @@
+{
+  "source": "model/round-assets/star-standard/star_glb.glb",
+  "output": "public/models/star-lux3d-standard.glb",
+  "removedZeroAreaFaces": 12,
+  "materialChanges": "non-metallic silicone; roughness calibrated; base color and normal texture preserved",
+  "geometryReshaped": false
+}

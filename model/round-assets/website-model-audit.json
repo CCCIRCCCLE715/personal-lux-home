@@ -1,0 +1,137 @@
+[
+  {
+    "file": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/public/models/brain-lux3d-standard.glb",
+    "geometry": [
+      {
+        "vertices": 52994,
+        "triangles": 75200,
+        "localDimensions": [
+          0.17000000178813934,
+          0.180793896317482,
+          0.2079673707485199
+        ],
+        "minToMaxExtentRatio": 0.8174359332248722,
+        "finitePositions": true,
+        "finiteNormals": true,
+        "zeroAreaTriangles": 0
+      }
+    ],
+    "materials": [
+      {
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.63,
+          "baseColorTexture": {
+            "index": 0,
+            "texCoord": 0
+          }
+        },
+        "emissiveFactor": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "alphaMode": "OPAQUE",
+        "doubleSided": false,
+        "name": "brain — calibrated silicone"
+      }
+    ],
+    "note": "Geometry checks do not establish visual acceptance or scene-space collision clearance."
+  },
+  {
+    "file": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/public/models/heart-lux3d-standard.glb",
+    "geometry": [
+      {
+        "vertices": 33260,
+        "triangles": 49310,
+        "localDimensions": [
+          0.10000000149011612,
+          0.09611693024635315,
+          0.05172630771994591
+        ],
+        "minToMaxExtentRatio": 0.5172630694916387,
+        "finitePositions": true,
+        "finiteNormals": true,
+        "zeroAreaTriangles": 0
+      }
+    ],
+    "materials": [
+      {
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.33,
+          "baseColorTexture": {
+            "index": 0,
+            "texCoord": 0
+          }
+        },
+        "emissiveFactor": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "alphaMode": "OPAQUE",
+        "doubleSided": false,
+        "name": "heart — calibrated silicone"
+      }
+    ],
+    "note": "Geometry checks do not establish visual acceptance or scene-space collision clearance."
+  },
+  {
+    "file": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/public/models/star-lux3d-standard.glb",
+    "geometry": [
+      {
+        "vertices": 46511,
+        "triangles": 49481,
+        "localDimensions": [
+          0.10000000149011612,
+          0.09992663562297821,
+          0.03385324403643608
+        ],
+        "minToMaxExtentRatio": 0.3385324353198344,
+        "finitePositions": true,
+        "finiteNormals": true,
+        "zeroAreaTriangles": 0
+      }
+    ],
+    "materials": [
+      {
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.42,
+          "baseColorTexture": {
+            "index": 0,
+            "texCoord": 0
+          }
+        },
+        "emissiveFactor": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "alphaMode": "OPAQUE",
+        "doubleSided": false,
+        "name": "star — calibrated silicone"
+      }
+    ],
+    "note": "Geometry checks do not establish visual acceptance or scene-space collision clearance."
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/public/images/paper-tear-reference.png",
+  "format": "PNG",
+  "mode": "RGBA",
+  "width": 1254,
+  "height": 1254,
+  "has_alpha": true,
+  "alpha_min": 0,
+  "alpha_max": 255,
+  "transparent_pixels": 1067717,
+  "partial_alpha_pixels": 12521,
+  "opaque_pixels": 492278,
+  "verified_true_transparency": true,
+  "source": "/Users/huangshaoshuai/.codex/generated_images/01a0a35e-203f-7372-a97c-fe6d02222603/exec-07d86d67-de8c-40bf-b40f-baa73e55be6b.png",
+  "model": "birefnet-general",
+  "soft_alpha": true,
+  "edge_color_decontaminated": true
+}

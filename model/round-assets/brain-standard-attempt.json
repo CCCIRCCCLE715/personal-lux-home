@@ -1,0 +1,40 @@
+{
+  "asset": "brain",
+  "region": "cn",
+  "accountRef": "8849a014807e",
+  "operation": "text-to-3d",
+  "parameters": {
+    "img": "https://holo-cos.aholo3d.cn/resource/platform/temp/2026/09/15/NKURCEAKTIVXMAABAAAAAAY8.png",
+    "version": "G1",
+    "faceCount": 80000,
+    "outputFormat": [
+      "zip",
+      "glb"
+    ],
+    "prompt": "A single full-volume cartoon brain, inspired by the reference shape, with two plump cerebral hemispheres and a short rounded brainstem. Large soft bulbous winding folds and gently recessed grooves. Pastel macaron pink, creamy blush rose, uniform matte silicone clay material, soft highlights. Freestanding 3D sculpture, substantial depth comparable to width. Create the complete front, sides and back. No flat relief, no image plane, no rectangle, no backing plate, no pedestal, no background, no text or printed surface graphics. Clean closed geometry and smooth continuous silhouette.",
+    "style": "cartoon"
+  },
+  "quoteId": "quote_e7bf1a674b494aafb939a6aaef43a8a1",
+  "approvedCredits": 20,
+  "approval": "User approved standard text plus reference batch, total 60 credits, latest macaron brain reference",
+  "retryCount": 0,
+  "correctiveGeneration": 1,
+  "submissionState": "submitted",
+  "startedAt": "2026-09-15T09:42:41.039406+00:00",
+  "taskId": "3505761",
+  "providerStatus": 3,
+  "updatedAt": "2026-09-15T09:49:58.921818+00:00",
+  "downloadedArtifacts": [
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/brain-standard/brain_zip.zip",
+      "bytes": 6065809
+    },
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/brain-standard/brain_glb.glb",
+      "bytes": 6180552
+    }
+  ],
+  "localCompletedAt": "2026-09-15T09:52:47.834450+00:00",
+  "qualityStatus": "accepted-volumetric",
+  "websiteModel": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/public/models/brain-lux3d-standard.glb"
+}

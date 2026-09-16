@@ -1,0 +1,35 @@
+{
+  "brain": {
+    "triangles": 79634,
+    "dimensions": [
+      0.15000000596046448,
+      0.14999403059482574,
+      0.001191627816297114
+    ],
+    "thicknessToWidth": 0.007944185126307204,
+    "accepted": false,
+    "reason": "Thin relief instead of full volumetric object; brain also has rectangular backing"
+  },
+  "heart": {
+    "triangles": 48748,
+    "dimensions": [
+      0.07999999821186066,
+      0.07974844425916672,
+      0.0012441875878721476
+    ],
+    "thicknessToWidth": 0.015552345196023849,
+    "accepted": false,
+    "reason": "Thin relief instead of full volumetric object; brain also has rectangular backing"
+  },
+  "star": {
+    "triangles": 49990,
+    "dimensions": [
+      0.05000000074505806,
+      0.04950592294335365,
+      0.00019913144933525473
+    ],
+    "thicknessToWidth": 0.003982628927359299,
+    "accepted": false,
+    "reason": "Thin relief instead of full volumetric object; brain also has rectangular backing"
+  }
+}

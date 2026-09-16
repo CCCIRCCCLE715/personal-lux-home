@@ -1,0 +1,28 @@
+{
+  "schema": "lux3d.workflow-state/v2",
+  "taskId": "3505761",
+  "status": "succeeded",
+  "lastKnownProviderStatus": 3,
+  "request": {
+    "operation": "text-to-3d",
+    "region": "cn",
+    "version": "G1"
+  },
+  "expectedFormats": [
+    "zip",
+    "glb"
+  ],
+  "downloadedArtifacts": [
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/brain-standard/brain_zip.zip",
+      "format": "zip"
+    },
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/brain-standard/brain_glb.glb",
+      "format": "glb"
+    }
+  ],
+  "createdAt": "2026-09-15T09:42:41.039406+00:00",
+  "updatedAt": "2026-09-15T09:52:47.834450+00:00",
+  "localCompletedAt": "2026-09-15T09:52:47.834450+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "asset": "star",
+  "region": "cn",
+  "accountRef": "8849a014807e",
+  "operation": "text-to-3d",
+  "parameters": {
+    "img": "https://holo-cos.aholo3d.cn/resource/platform/temp/2026/09/15/NKUQ3VIKTKUYIAABAAAAACY8.png",
+    "version": "G1",
+    "faceCount": 50000,
+    "outputFormat": [
+      "zip",
+      "glb"
+    ],
+    "prompt": "A single fully volumetric yellow five-point star toy. Exactly five short rounded arms, thick inflated puffy body with smoothly bulging front and back, like a soft cushion, substantial depth at least half of width. Uniform bright warm yellow satin silicone material, smooth highlights. Use reference for silhouette only, create complete front sides and back. No flat slab or relief, no image plane, no backing plate, no eyes, no text, no stand, no background. Clean closed geometry and continuous rounded edges.",
+    "style": "cartoon"
+  },
+  "quoteId": "quote_e7bf1a674b494aafb939a6aaef43a8a1",
+  "approvedCredits": 20,
+  "approval": "User approved standard text plus reference batch, total 60 credits, latest macaron brain reference",
+  "retryCount": 0,
+  "correctiveGeneration": 1,
+  "submissionState": "submitted",
+  "startedAt": "2026-09-15T09:42:41.568950+00:00",
+  "taskId": "3505771",
+  "providerStatus": 3,
+  "updatedAt": "2026-09-15T09:50:00.521760+00:00",
+  "downloadedArtifacts": [
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/star-standard/star_zip.zip",
+      "bytes": 4049802
+    },
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/star-standard/star_glb.glb",
+      "bytes": 4028424
+    }
+  ],
+  "localCompletedAt": "2026-09-15T09:52:47.834450+00:00",
+  "qualityStatus": "accepted-volumetric",
+  "websiteModel": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/public/models/star-lux3d-standard.glb"
+}

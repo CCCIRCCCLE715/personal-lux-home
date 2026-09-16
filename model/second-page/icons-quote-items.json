@@ -1,0 +1,30 @@
+{
+  "1": {
+    "endpoint": {"method": "POST", "path": "/lux3d/v1/generate/text-to-3d/task/create"},
+    "parameters": {"body": {
+      "prompt": "One cute 3D cartoon icon of a compact green HB soda can. Rounded cylindrical aluminum can body in fresh emerald and mint green, crisp silver top rim and pull tab, a clean white HB logo on the front, subtle glossy condensation highlights but no noisy surface texture. PBR satin painted aluminum and polished silver materials. The can feels full, friendly and collectible, with smoothly beveled forms and a strong clean silhouette. Isolated single asset, front three-quarter view, no floor, no base, no background, no extra lettering, no broken geometry, no jagged pixels, no rough edges, no holes or inverted normals.",
+      "version": "G1", "style": "cartoon", "faceCount": 50000, "outputFormat": ["zip", "glb"]
+    }}
+  },
+  "2": {
+    "endpoint": {"method": "POST", "path": "/lux3d/v1/generate/text-to-3d/task/create"},
+    "parameters": {"body": {
+      "prompt": "One cute miniature Earth globe as a 3D cartoon icon for a parallax-scroll website video. Rounded saturated sky-blue ocean sphere, raised simplified soft green continents, a few tiny puffy white clouds hugging the globe, no face and no stand. Smooth polished resin and matte clay PBR materials, macaroon color palette, full charming volume and crisp silhouette. Isolated single asset, front three-quarter view, no floor, no base, no background, no thin broken islands, no jagged edges, no holes or inverted normals.",
+      "version": "G1", "style": "cartoon", "faceCount": 50000, "outputFormat": ["zip", "glb"]
+    }}
+  },
+  "3": {
+    "endpoint": {"method": "POST", "path": "/lux3d/v1/generate/text-to-3d/task/create"},
+    "parameters": {"body": {
+      "prompt": "One plump golden-yellow notification bell as a cute 3D cartoon icon for an AI creator followers video. Clearly readable bell silhouette, rounded dome, softly flared lower rim, thick loop at the top and a small spherical clapper beneath. Saturated sunshine-yellow enamel over satin gold PBR metal, soft studio highlights, no text. Smooth beveled connected geometry and clean volume rather than a flat extruded pictogram. Isolated single asset, front three-quarter view, no floor, no base, no background, no jagged edges, no broken faces, no holes or inverted normals.",
+      "version": "G1", "style": "cartoon", "faceCount": 50000, "outputFormat": ["zip", "glb"]
+    }}
+  },
+  "4": {
+    "endpoint": {"method": "POST", "path": "/lux3d/v1/generate/text-to-3d/task/create"},
+    "parameters": {"body": {
+      "prompt": "One cute compact black medicine mortar bowl as a 3D cartoon icon for a Qianwen nine-ways video cover. A squat rounded ceramic mortar with a deep visible inner cavity, generously thick rolled rim, softly tapered base and one short pestle resting diagonally inside. Satin obsidian-black glazed ceramic PBR material, subtle charcoal reflections and no contents or text. Clean readable silhouette and plump smooth curves. Isolated single composite asset, front three-quarter view, no floor, no base, no background, no jagged edges, no broken faces, no holes or inverted normals.",
+      "version": "G1", "style": "cartoon", "faceCount": 50000, "outputFormat": ["zip", "glb"]
+    }}
+  }
+}

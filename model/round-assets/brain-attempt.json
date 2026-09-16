@@ -1,0 +1,25 @@
+{
+  "asset": "brain",
+  "region": "cn",
+  "accountRef": "8849a014807e",
+  "operation": "image-to-3d",
+  "parameters": {
+    "img": "https://cdn.prod.website-files.com/69b574b7e8a1b256fc6f5504/69c58a174366518677aa9b18_heart.webp",
+    "version": "G1-Turbo",
+    "faceCount": 80000,
+    "outputFormat": [
+      "zip",
+      "glb"
+    ],
+    "enablePbr": true
+  },
+  "quoteId": "quote_6a033c1417c14bc196dc97cfef005b5f",
+  "approvedCredits": 1,
+  "approval": "User explicitly confirmed three-model generation after displayed total of 3 credits",
+  "retryCount": 0,
+  "submissionState": "submitted",
+  "startedAt": "2026-09-15T09:14:59.681637+00:00",
+  "taskId": "3505038",
+  "providerStatus": 4,
+  "updatedAt": "2026-09-15T09:21:05.248871+00:00"
+}

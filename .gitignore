@@ -1,0 +1,23 @@
+# Reproducible local build artifacts
+node_modules/
+dist/
+.vite/
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local credentials and provider responses containing private URLs
+.env
+.env.*
+!.env.example
+**/*-private.json
+**/*-provider.json
+
+# Regenerated, duplicate model handoff packages and quality renders
+model/**/delivery/
+model/**/delivery-v2/
+model/**/retry-delivery/
+model/**/standard-delivery/
+model/**/quality/
+.vercel

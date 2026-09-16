@@ -1,0 +1,7 @@
+{
+  "heart": "Microsoft Fluent UI Emoji / Red heart, 3D",
+  "star": "Microsoft Fluent UI Emoji / Star, 3D",
+  "source": "https://github.com/microsoft/fluentui-emoji",
+  "license": "MIT; retain source attribution",
+  "brain": "../brain-reference/source.json"
+}

@@ -1,0 +1,42 @@
+{
+  "schema": "lux3d.delivery-spec/v2",
+  "title": "Lux3D 三模型重试原始结果 · 造型未通过验收",
+  "items": [
+    {
+      "id": "brain",
+      "label": "大脑（造型未通过验收）",
+      "selectedAttemptId": "brain-retry",
+      "attempts": [
+        {
+          "id": "brain-retry",
+          "statePath": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/brain-retry-delivery-state.json"
+        }
+      ]
+    },
+    {
+      "id": "heart",
+      "label": "爱心（造型未通过验收）",
+      "selectedAttemptId": "heart-retry",
+      "attempts": [
+        {
+          "id": "heart-retry",
+          "statePath": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/heart-retry-delivery-state.json"
+        }
+      ]
+    },
+    {
+      "id": "star",
+      "label": "五角星（造型未通过验收）",
+      "selectedAttemptId": "star-retry",
+      "attempts": [
+        {
+          "id": "star-retry",
+          "statePath": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/star-retry-delivery-state.json"
+        }
+      ]
+    }
+  ],
+  "scene": {
+    "status": "not-requested"
+  }
+}

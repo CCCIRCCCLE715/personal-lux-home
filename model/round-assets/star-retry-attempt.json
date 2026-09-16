@@ -1,0 +1,32 @@
+{
+  "asset": "star",
+  "region": "cn",
+  "accountRef": "8849a014807e",
+  "operation": "image-to-3d",
+  "parameters": {
+    "img": "https://holo-cos.aholo3d.cn/resource/platform/temp/2026/09/15/NKUQ3VIKTKUYIAABAAAAACY8.png",
+    "version": "G1-Turbo",
+    "faceCount": 50000,
+    "outputFormat": [
+      "glb"
+    ],
+    "enablePbr": true
+  },
+  "quoteId": "quote_80fd84705bf346a1b84e0200b0dceb99",
+  "approvedCredits": 1,
+  "approval": "User approved one retry for all three models at additional quoted total 3 credits",
+  "retryCount": 1,
+  "submissionState": "submitted",
+  "startedAt": "2026-09-15T09:27:05.189815+00:00",
+  "taskId": "3505437",
+  "providerStatus": 3,
+  "updatedAt": "2026-09-15T09:29:01.962625+00:00",
+  "downloadedArtifacts": [
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/star-retry/star.glb",
+      "bytes": 3506344
+    }
+  ],
+  "localCompletedAt": "2026-09-15T09:32:41.014562+00:00",
+  "qualityStatus": "rejected-flat-relief"
+}

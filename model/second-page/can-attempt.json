@@ -1,0 +1,40 @@
+{
+  "asset": "can",
+  "region": "cn",
+  "accountRef": "account_97b41b956ed215e339b29e7353b19812987ae8032789a2cef97af82a763d27af",
+  "operation": "text-to-3d",
+  "parameters": {
+    "prompt": "One cute 3D cartoon icon of a compact green HB soda can. Rounded cylindrical aluminum can body in fresh emerald and mint green, crisp silver top rim and pull tab, a clean white HB logo on the front, subtle glossy condensation highlights but no noisy surface texture. PBR satin painted aluminum and polished silver materials. The can feels full, friendly and collectible, with smoothly beveled forms and a strong clean silhouette. Isolated single asset, front three-quarter view, no floor, no base, no background, no extra lettering, no broken geometry, no jagged pixels, no rough edges, no holes or inverted normals.",
+    "version": "G1",
+    "style": "cartoon",
+    "faceCount": 50000,
+    "outputFormat": [
+      "zip",
+      "glb"
+    ]
+  },
+  "quoteId": "quote_1f346ba42c27412d99e074db79507f50",
+  "approvedCredits": 20,
+  "approval": "User approved the quoted four-icon batch at 80 credits on 2026-09-15.",
+  "retryCount": 0,
+  "submissionState": "submitted",
+  "startedAt": "2026-09-15T12:26:52.763883+00:00",
+  "taskId": "3511844",
+  "providerStatus": 3,
+  "updatedAt": "2026-09-15T12:34:20.286556+00:00",
+  "downloadedArtifacts": [
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/second-page/originals/can/can_zip.zip",
+      "bytes": 6460112,
+      "format": "zip"
+    },
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/second-page/originals/can/can_glb.glb",
+      "bytes": 5479552,
+      "format": "glb"
+    }
+  ],
+  "localCompletedAt": "2026-09-15T12:34:26.311043+00:00",
+  "qualityStatus": "accepted-with-website-degenerate-cleanup",
+  "websiteModel": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/public/models/can-lux3d.glb"
+}

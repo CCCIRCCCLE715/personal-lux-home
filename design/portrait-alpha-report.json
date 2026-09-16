@@ -1,0 +1,18 @@
+{
+  "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/public/images/portrait-sticker.png",
+  "format": "PNG",
+  "mode": "RGBA",
+  "width": 1254,
+  "height": 1254,
+  "has_alpha": true,
+  "alpha_min": 0,
+  "alpha_max": 255,
+  "transparent_pixels": 870442,
+  "partial_alpha_pixels": 12211,
+  "opaque_pixels": 689863,
+  "verified_true_transparency": true,
+  "source": "/Users/huangshaoshuai/.codex/generated_images/01a0a35e-203f-7372-a97c-fe6d02222603/exec-30681ef2-6ecd-42a6-b690-37796b07dc8b.png",
+  "model": "birefnet-general",
+  "soft_alpha": true,
+  "edge_color_decontaminated": true
+}

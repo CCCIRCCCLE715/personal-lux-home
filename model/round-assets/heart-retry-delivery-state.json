@@ -1,0 +1,23 @@
+{
+  "schema": "lux3d.workflow-state/v2",
+  "taskId": "3505434",
+  "status": "succeeded",
+  "lastKnownProviderStatus": 3,
+  "request": {
+    "operation": "image-to-3d",
+    "region": "cn",
+    "version": "G1-Turbo"
+  },
+  "expectedFormats": [
+    "glb"
+  ],
+  "downloadedArtifacts": [
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/round-assets/heart-retry/heart.glb",
+      "format": "glb"
+    }
+  ],
+  "createdAt": "2026-09-15T09:27:04.947729+00:00",
+  "updatedAt": "2026-09-15T09:32:41.014562+00:00",
+  "localCompletedAt": "2026-09-15T09:32:41.014562+00:00"
+}

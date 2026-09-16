@@ -1,0 +1,28 @@
+{
+  "schema": "lux3d.workflow-state/v2",
+  "taskId": "3511859",
+  "status": "succeeded",
+  "lastKnownProviderStatus": 3,
+  "request": {
+    "operation": "text-to-3d",
+    "region": "cn",
+    "version": "G1"
+  },
+  "expectedFormats": [
+    "zip",
+    "glb"
+  ],
+  "downloadedArtifacts": [
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/second-page/originals/mortar/mortar_zip.zip",
+      "format": "zip"
+    },
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/second-page/originals/mortar/mortar_glb.glb",
+      "format": "glb"
+    }
+  ],
+  "createdAt": "2026-09-15T12:26:53.696755+00:00",
+  "updatedAt": "2026-09-15T12:40:17.459230+00:00",
+  "localCompletedAt": "2026-09-15T12:40:18.813537+00:00"
+}

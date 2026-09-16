@@ -1,0 +1,40 @@
+{
+  "asset": "bell",
+  "region": "cn",
+  "accountRef": "account_97b41b956ed215e339b29e7353b19812987ae8032789a2cef97af82a763d27af",
+  "operation": "text-to-3d",
+  "parameters": {
+    "prompt": "One plump golden-yellow notification bell as a cute 3D cartoon icon for an AI creator followers video. Clearly readable bell silhouette, rounded dome, softly flared lower rim, thick loop at the top and a small spherical clapper beneath. Saturated sunshine-yellow enamel over satin gold PBR metal, soft studio highlights, no text. Smooth beveled connected geometry and clean volume rather than a flat extruded pictogram. Isolated single asset, front three-quarter view, no floor, no base, no background, no jagged edges, no broken faces, no holes or inverted normals.",
+    "version": "G1",
+    "style": "cartoon",
+    "faceCount": 50000,
+    "outputFormat": [
+      "zip",
+      "glb"
+    ]
+  },
+  "quoteId": "quote_1f346ba42c27412d99e074db79507f50",
+  "approvedCredits": 20,
+  "approval": "User approved the quoted four-icon batch at 80 credits on 2026-09-15.",
+  "retryCount": 0,
+  "submissionState": "submitted",
+  "startedAt": "2026-09-15T12:26:53.408347+00:00",
+  "taskId": "3511853",
+  "providerStatus": 3,
+  "updatedAt": "2026-09-15T12:34:28.832795+00:00",
+  "downloadedArtifacts": [
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/second-page/originals/bell/bell_zip.zip",
+      "bytes": 4101101,
+      "format": "zip"
+    },
+    {
+      "path": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/model/second-page/originals/bell/bell_glb.glb",
+      "bytes": 3554984,
+      "format": "glb"
+    }
+  ],
+  "localCompletedAt": "2026-09-15T12:34:30.682246+00:00",
+  "qualityStatus": "accepted-volumetric",
+  "websiteModel": "/Users/huangshaoshuai/Desktop/3D/personal-lux-home/public/models/bell-lux3d.glb"
+}

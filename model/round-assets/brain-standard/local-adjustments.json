@@ -1,0 +1,7 @@
+{
+  "source": "model/round-assets/brain-standard/brain_glb.glb",
+  "output": "public/models/brain-lux3d-standard.glb",
+  "removedZeroAreaFaces": 0,
+  "materialChanges": "non-metallic silicone; roughness calibrated; base color and normal texture preserved",
+  "geometryReshaped": false
+}

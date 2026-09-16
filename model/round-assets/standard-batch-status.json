@@ -1,0 +1,14 @@
+{
+  "region": "cn",
+  "quotedCredits": 60,
+  "assets": {
+    "brain": 3505761,
+    "heart": 3505765,
+    "star": 3505771
+  },
+  "status": "generated-and-integrated",
+  "inspection": "Volumetric forms visually checked in homepage; 60-second 361-sample conservative box test: no inter-object intersection or penetration in front of paper",
+  "localMaterialCalibration": "Silicone roughness and metalness calibrated; 12 zero-area star triangles removed; original downloads preserved",
+  "userAcceptance": "User confirmed brain, heart and star are acceptable",
+  "acceptedAt": "2026-09-15T09:56:03.285314+00:00"
+}
